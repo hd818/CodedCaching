@@ -1,0 +1,2 @@
+def zero_out(p0, p1, p2, p3, p4, delta, alpha, y, R, M, K):
+    for i in range(K):
